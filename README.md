@@ -1,5 +1,5 @@
 # PowerShell-Scripts
-My helpful PowerShell scripts 
+Helpful PowerShell scripts 
 
-Scripts are useful for numerous tasks/projects
+Scripts are useful for numerous tasks/projects <br>
 Working on automating actions using PoSH
